@@ -1,0 +1,7 @@
+﻿  project_kulaev.cpp
+C:\Users\User\source\repos\project_kulaev\project_kulaev\project_kulaev.cpp(29,23): warning C4244: =: преобразование "float" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+  project_kulaev.vcxproj -> C:\Users\User\source\repos\project_kulaev\Debug\project_kulaev.exe
